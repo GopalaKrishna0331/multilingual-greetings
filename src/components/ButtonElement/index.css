@@ -1,0 +1,25 @@
+.list {
+  margin: 20px;
+}
+
+.button {
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  border-radius: 20px;
+  height: 30px;
+  width: 80px;
+  font-family: 'roboto';
+  color: #db1c48;
+  cursor: pointer;
+}
+
+.selected-button {
+  background-color: #db1c48;
+  border: none;
+  color: #ffffff;
+  font-family: 'roboto';
+  border-radius: 20px;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+}
